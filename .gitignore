@@ -19,6 +19,7 @@
 *.out
 *.so
 *.d
+test/
 host/funcheck
 /.vscode
 /.vscode/*
